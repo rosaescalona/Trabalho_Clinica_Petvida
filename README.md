@@ -72,7 +72,7 @@ Versão celular:
 Aplicação **front-end estática** (HTML, CSS e JavaScript puro), sem framework e sem etapa de build. Publicada no **GitHub Pages**.
 
 ```
-petvida-clinica/
+Trabalho_Clinica_Petvida/
 ├── index.html          # Estrutura das telas e modais
 ├── css/
 │   └── styles.css      # Identidade visual, layout e responsividade
@@ -129,8 +129,8 @@ A cor nunca é decorativa: ela sempre indica a área do serviço.
 **Localmente:**
 
 ```bash
-git clone https://github.com/SEU-USUARIO/petvida-clinica.git
-cd petvida-clinica
+git clone https://github.com/rosaescalona/Trabalho_Clinica_Petvida.git
+cd Trabalho_Clinica_Petvida
 ```
 
 Depois, abra o `index.html` no navegador. Se preferir um servidor local:
@@ -167,7 +167,7 @@ O sistema já abre com dados de demonstração (datas sempre relativas ao dia at
 
 ## Autor
 
-**Lourenço da Silva Carneiro Terrana**, estudante de Análise e Desenvolvimento de Sistemas na Universidade Positivo.
+**Rosa Virginia Escalona Gil**, estudante de Análise e Desenvolvimento de Sistemas na Universidade Positivo.
 
 ## Licença
 
