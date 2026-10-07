@@ -1,0 +1,27 @@
+# ===== Sistema operacional =====
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ===== Editores / IDEs =====
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ===== Dependências e build (caso o projeto evolua para Node/Vite) =====
+node_modules/
+dist/
+build/
+.cache/
+
+# ===== Logs =====
+*.log
+npm-debug.log*
+
+# ===== Variáveis de ambiente e credenciais =====
+.env
+.env.*
+!.env.example
+*.pem
+*.key
