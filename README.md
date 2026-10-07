@@ -2,7 +2,7 @@
 
 Sistema web para a recepção da **Clínica PetVida & Estética Animal**: substitui a agenda de papel por uma agenda única de consultas e banho/tosa, com ficha do pet que junta histórico médico e estético, lembretes por WhatsApp e painel de ocupação do dia.
 
-**Acesse o sistema:** https://SEU-USUARIO.github.io/petvida-clinica/
+**Acesse o sistema:** https://rosaescalona.github.io/Trabalho_Clinica_Petvida/
 
 > Projeto acadêmico da disciplina **Design Profissional — Produção de Portfólio & Desenvolvimento Empresarial** (Prof. Sedenilso Antonio Machado), Análise e Desenvolvimento de Sistemas, Universidade Positivo. Estudo de Caso 5.
 
